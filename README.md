@@ -19,4 +19,4 @@ Hello Earthlings and all who inhabit this celestial body.
 |||
 | --- | --- |
 |  Email | jacobrsmith37@gmail.com |
-| LinkedIn | linkedin.com/in/jacob-smith-066991b2 |
+| LinkedIn | https://www.linkedin.com/in/jacob-smith-066991b2/ |
